@@ -5,17 +5,17 @@ Descrever que um tipo pode ter muitos valores diferentes.
 
 ### Exemplo de estrutura
 ```json
-{
-  "Id": 1,
-  "Name": "Montagem de móveis",
-  "IsActive": true,
-  "ShowOnProductFront": true,
-  "ShowOnCartFront": true,
-  "ShowOnAttachmentFront": true,
-  "ShowOnFileUpload": true,
-  "IsGiftCard": false,
-  "IsRequired": false
-}
+  {
+    "Id": 1,
+    "Name": "Montagem de móveis",
+    "IsActive": true,
+    "ShowOnProductFront": true,
+    "ShowOnCartFront": true,
+    "ShowOnAttachmentFront": true,
+    "ShowOnFileUpload": true,
+    "IsGiftCard": false,
+    "IsRequired": false
+  }
 ```
 ---
 | Campo                  | Descrição                                                         | Valor     |

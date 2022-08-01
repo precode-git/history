@@ -4,13 +4,13 @@ Nela ficarão os dados e configurações específicas para cada valor de serviç
 descrever vinculo com tipo de serviço.
 
 ```json
-{
+  {
     "Id": 2,
     "SkuServiceTypeId": 2,
     "Name": "Montagem de móveis",
     "Value": 10.5,
     "Cost": 10.5
-}
+  }
 ```
 ---
 

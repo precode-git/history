@@ -28,13 +28,13 @@ a um Produto (SKU).
 ### Exemplo de estrutura de retorno
 ```json
   {
-      "Id": 1,
-      "SkuServiceTypeId": 1,
-      "SkuServiceValueId": 1,
-      "SkuId": 1,
-      "Name": "montagem",
-      "Text": "text",
-      "IsActive": false
+    "Id": 1,
+    "SkuServiceTypeId": 1,
+    "SkuServiceValueId": 1,
+    "SkuId": 1,
+    "Name": "montagem",
+    "Text": "text",
+    "IsActive": false
   }
 ```
 
