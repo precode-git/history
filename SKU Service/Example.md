@@ -1,6 +1,7 @@
 # Exemplo de serviço de garantia extendida:
 
 ## SKU Service Type
+
 ```json
   {
     "Id": 2,
@@ -16,6 +17,7 @@
 ```
 
 ## SKU Service Values
+
 ```json
   {
     "Id": 2,
@@ -25,6 +27,7 @@
     "Cost": 70
   }
 ```
+
 ```json
   {
     "Id": 3,
@@ -36,6 +39,7 @@
 ```
 
 ## SKU Service Associate
+
 ```json
   {
     "SkuServiceTypeId": 2,
@@ -46,6 +50,7 @@
     "IsActive": true
   }
 ```
+
 ```json
   {
     "SkuServiceTypeId": 2,
@@ -56,4 +61,3 @@
     "IsActive": true
   }
 ```
-

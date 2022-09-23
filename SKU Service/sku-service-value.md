@@ -1,4 +1,5 @@
 # SKU Service Value
+
 Essa tabela irá conter os valores de serviço vinculado a um SKU Service.
 Nela ficarão os dados e configurações específicas para cada valor de serviço.
 descrever vinculo com tipo de serviço.
@@ -12,10 +13,11 @@ descrever vinculo com tipo de serviço.
     "Cost": 10.5
   }
 ```
+
 ---
 
 | Campo            | Descrição                         | Valor     |
-|------------------|-----------------------------------|-----------|
+| ---------------- | --------------------------------- | --------- |
 | Id               | Identificador do valor de serviço | numerical |
 | SkuServiceTypeId | Identificador do tipo de serviço  | numerical |
 | Name             | Nome do serviço                   | string    |

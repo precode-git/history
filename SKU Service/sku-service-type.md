@@ -1,7 +1,7 @@
 # SKU Service Type
-Essa tabela irá conter as especificações do tipo de serviço vinculado a um SKU Service.
+Essa tabela irá conter as especificações do tipo de serviço vinculado a um SKU Service.  
 Nela ficarão os dados e configurações específicas para cada tipo de serviço.
-Descrever que um tipo pode ter muitos valores diferentes.
+
 
 ### Exemplo de estrutura
 ```json
