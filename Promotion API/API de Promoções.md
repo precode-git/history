@@ -4,7 +4,7 @@ Promoções são descontos concedidos ao cliente, podendo ser associados a um ou
 
 A API de Promoções deve conter essas três formas diferentes de trabalhar com os descontos, que em todos os casos são aplicáveis na forma de desconto em valor bruto ou percentual:
 
-- #### Promoções e Taxas
+- #### [Promoções e Taxas](https://github.com/gustavopiassa/history/blob/main/Promotion%20API/Promotions%20and%20Taxes.md)
   
   São descontos ou taxas personalizados, podendo ser parametrizados por um conjunto de regras que qualificaram a aplicabilidade da promoção/taxa. Essas regras podem ser definidas por listas de produtos, listas de clientes, quantidade de itens no carrinho, faixas de CEP, dias da semana, entre outros.
 
