@@ -1,0 +1,142 @@
+{
+  "main": {
+    "id": "ed45cd87815a9a04",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5ba94b3a6ffdb08",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2022-10-11.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6590088752cb5fd3",
+    "type": "split",
+    "children": [
+      {
+        "id": "576fb5adc052a2f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da52362bd0029955",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3258ddceae68cf34",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ca07a4fe0e4d817e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ab0f18a89ebc7ed1",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9c9c0bf820a53fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b085a53d60af15ae",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2022-10-11.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c5401f6b654c0b72",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2022-10-11.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "403ef54c477f618b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7ccafb0cf7ea0e23",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2022-10-11.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f5ba94b3a6ffdb08",
+  "lastOpenFiles": [
+    "Promotion API/Promotions and Taxes.md",
+    "Promotion API/API de Promoções.md",
+    "2022-10-11.md",
+    "Promotion API/More for Less.md",
+    "Promotion API/Coupons.md",
+    "Promotion API/Campaingn.md",
+    "Promotion API/Buy Together.md",
+    "Promotion API/Buy One get Another.md"
+  ]
+}
