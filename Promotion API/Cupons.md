@@ -6,8 +6,8 @@ Cupons são códigos inseridos pelo cliente ao finalizar um pedido. Ele irá gar
 
 | Campo                    | Descrição | Tipo |
 | ------------------------ | --------- | ---- |
-| utmSource                |           |      |
-| utmCampaign              |           |      |
-| couponCode               |           |      |
-| maxItemsPerClient        |           |      |
-| expirationIntervalPerUse |           |      |
+| utmSource                | UTM source code       | string      |
+| utmCampaign?              | UTM campaign code          | string     |
+| couponCode               | Coupon code          | string     |
+| maxItemsPerClient        | Maximum items per client that the coupon can be applied          | integer     |
+| expirationIntervalPerUse |  Coupon expiration interval per use         |  string    |

@@ -18,4 +18,4 @@ Os campos obrigatórios para esse tipo de promoção são os seguintes:
 
 ## Restrição de itens
 
-Pode ser definido por critério de inclusão ou exclusão os itens aos quais será aplicado a promoção. 
+Pode ser definido por critério de inclusão ou exclusão os itens aos quais será aplicado a promoção.  
