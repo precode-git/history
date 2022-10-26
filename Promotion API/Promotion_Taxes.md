@@ -6,7 +6,7 @@ Ao criar uma promoção/taxa o seller pode configurar os parâmetros de aplicabi
 
 - [Promoção Regular](Regular_Promotion.md): *Modelo básico de promoção com regras personalizadas pelo seller;*
 
-- [Compre Junto](Buy_together.md): *Promoção que garante desconto quando dois ou mais produtos são adicionados juntos ao carrinho;*
+- [Compre Junto](Buy_Together.md): *Promoção que garante desconto quando dois ou mais produtos são adicionados juntos ao carrinho;*
 
 - [Mais por Menos](More_for_Less.md): *O cliente ao comprar um número pré-definido de um item tem direito aos benefícios da promoção;*
 
