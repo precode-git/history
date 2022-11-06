@@ -30,8 +30,11 @@ Os campos obrigatórios seguem o mesmo padrão usado na [Promoção Regular](Reg
 O seller poderá escolher dentro do conjunto de critérios as condições que os clientes deverão atender para terem direito aos benefícios da promoção, que serão:
 
 **Valor mínimo ou máximo do pedido**: *Considera o valor do carrinho, sem considerar descontos ou valor de frete*
+
 **Validação por número do cartão**: *O desconto será aplicado apenas para os clientes que pagarem com cartões das bandeiras definidas*
+
 **Grupo de clientes**: *O desconto será aplicado caso o cliente esteja dentro do grupo de clientes criado pelo seller, é importante que o nome adicionado ao grupo seja exatamente igual ao nome no pedido para que a configuração funcione corretamente*
+
 **UTM Source**: *O desconto será aplicado caso a origem da UTM do cliente esteja dentro das origens definidas*
 
 ## Apoio Visual
